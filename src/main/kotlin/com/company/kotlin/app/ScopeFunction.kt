@@ -50,5 +50,4 @@ fun main() {
         "name ${this.name}, type ${this.type}, balance ${this.balance}, and age ${this.age}"
     }
     println(with)
-
 }
